@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+    color: #333;
+  }
+  
+  .header {
+    background-color: #0073e6;
+    color: white;
+    text-align: center;
+    padding: 50px 0;
+  }
+  
+  .about-section {
+    padding: 40px;
+    text-align: center;
+  }
+  
+  .cta-section {
+    background-color: #0073e6;
+    color: white;
+    text-align: center;
+    padding: 30px;
+  }
+  
+  .signup-btn {
+    background-color: white;
+    color: #0073e6;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  .signup-btn:hover {
+    background-color: #f4f4f4;
+  }
+  
+  .footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 20px;
+  }
+  
